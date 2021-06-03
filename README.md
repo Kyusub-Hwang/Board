@@ -3,7 +3,7 @@ ReactJS based Board web-app
 
 # Features
 - Account registration
-- Local/Google/Github login
+- Local login & Google/Github Authentication
 - Realtime posting
 - Firebase DB 
 
