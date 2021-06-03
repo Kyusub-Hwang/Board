@@ -2,11 +2,12 @@
 ReactJS based Board web-app
 
 # Features
-Account registration
-Local/Google/Github login
-Realtime posting
-Firebase DB 
+- Account registration
+- Local/Google/Github login
+- Realtime posting
+- Firebase DB 
 
+# Demo
 - Account Registration/Login
 
 ![image](https://user-images.githubusercontent.com/79511478/120600611-ed8af980-c483-11eb-850d-aa64d41d7fd6.png)
