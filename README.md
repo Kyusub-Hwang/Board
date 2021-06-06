@@ -6,6 +6,7 @@ ReactJS based Board web-app
 - Local login & Google/Github Authentication
 - Realtime posting
 - Firebase DB 
+- Session Cookies
 
 # Demo
 - Account Registration/Login
